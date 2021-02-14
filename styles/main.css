@@ -265,3 +265,9 @@ to   { opacity: 1; }
   border-left:none;
   margin:0;
 }
+
+a{
+  font-style: none;
+  text-decoration: none;
+  color:black;
+}
