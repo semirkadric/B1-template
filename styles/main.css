@@ -271,3 +271,26 @@ a{
   text-decoration: none;
   color:black;
 }
+.product-h2{
+  margin-top:15px;
+  margin-right: 0;
+  margin-bottom: 15px;
+  margin-left:250px;
+  padding:0;
+  border-left: 4px solid #27AE60;
+  padding-left: 6px;
+}
+.box-prod{
+  display:flex;
+}
+.box-box-1{
+  margin-left: 280px;
+}
+.box-box-2 p{
+  margin: 0;
+  padding:0;
+  width:64%;
+}
+span{
+  font-weight: 700;
+}
