@@ -190,7 +190,12 @@ footer{
 */
 
 @media (max-width: 480px) {
-
+  .logo{
+    width: 256;
+  }
+  .side-by-side{
+    width:20%;
+  }
 }
 
 /* 
@@ -201,7 +206,7 @@ footer{
 @media (max-width: 1024px) {
   .logo{
     margin: 0 auto;
-    width: 256px;
+    width: 512;
   }
 .row{
     flex-direction: column;
