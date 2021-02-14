@@ -295,7 +295,7 @@ a{
   width:64%;
 }
 span{
-  font-weight: 700;
+  font-weight: bold;
 }
 .wrapper-pay{
   width: 100%;
@@ -303,4 +303,65 @@ span{
 .pay-h2 h2{
   border-left: 4px solid #27AE60;
   padding-left: 8px;
+}
+.wrapper-cart h2{
+  border-left:5px solid #27AE60;
+  padding:7px;
+}
+.wrapper-cart{
+}
+.first-line{
+  width: 100%;
+}
+.wrapper-first{
+  display:flex;
+  border-bottom:2px solid black;
+}
+.productt{
+  width: 45%;
+}
+.prijs{
+  width:20%;
+}
+.aantal{
+  width: 10%;
+}
+.prijs-totaal{
+  width:10%;
+}
+.second-line p{
+  margin:0;
+}
+
+.wrapper-second{
+  display:flex;
+}
+.wrapper-third{
+  display:flex;
+}
+.third-line p{
+  margin:0;
+}
+.wrapper-fourth{
+  display:flex;
+  border-bottom:2px solid black;
+}
+.fourth-line p{
+  margin:0;
+}
+.wrapper-first h3{
+  margin:0;
+}
+.wrapper-fifth{
+  display: flex;
+}
+.fifth-line p{
+  margin:0;
+  width:100%;
+}
+.totaal-text{
+  margin-left:966px;
+}
+.totaal-totaal{
+  margin-left: 72px;
 }
